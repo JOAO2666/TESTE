@@ -1,0 +1,15 @@
+#ifndef DEFINES_H
+#define DEFINES_H
+
+#define LARGURA_TELA 1920
+#define ALTURA_TELA 1080
+#define MAX_PERSONAGENS 6
+#define OPCOES_MENU 3
+#define OPCOES_CONFIG 8
+#define MAX_MAPAS 6
+#define VIDA_MAXIMA 250
+#define PODER_MAXIMO 100
+#define TEMPO_ROUND 60.0f
+#define MAX_ROUNDS 3
+
+#endif // DEFINES_H

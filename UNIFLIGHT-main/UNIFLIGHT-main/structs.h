@@ -1,3 +1,6 @@
+#ifndef STRUCTS_H
+#define STRUCTS_H
+
 #include "raylib.h"
 
 typedef enum
@@ -160,3 +163,5 @@ typedef struct
     float volumeMusica;
     float volumeEfeitos;
 } ConfiguracaoJogo;
+
+#endif // STRUCTS_H
